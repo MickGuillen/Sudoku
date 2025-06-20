@@ -1,4 +1,4 @@
-# Proyecto: Solucionador de Sudoku en Python
+# Proyecto: Sudoku en Python
 
 Este proyecto implementa un algoritmo para resolver tableros de Sudoku utilizando un enfoque de **fuerza bruta con backtracking**. A través del uso de recursividad y validaciones adicionales, como las diagonales principales, el programa encuentra la solución del tablero inicial proporcionado.
 

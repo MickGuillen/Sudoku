@@ -43,6 +43,6 @@ El programa imprimirá en consola:
 
 ## Autor
 
-Desarrollado por **Alan Guillen**.
+Desarrollado por [Alan Guillen](https://github.com/MickGuillen).
 
 
